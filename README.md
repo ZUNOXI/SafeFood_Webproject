@@ -5,3 +5,6 @@ Backend+ Frontend project
  - Safefood(web, front-end, back-end)
 
 # Web Frontend Develope
+
+you can see the site
+http://15.165.18.192:8080/
