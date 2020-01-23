@@ -2,7 +2,7 @@
 Backend+ Frontend project
 
 # Samsung Software Arcademy Web Project 
- - Safefood(web, front-end, back-end)
+ - Safefood(web, front-end, back-end) / continous developing
 
 # Web Frontend Develope
 
